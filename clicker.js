@@ -1,4 +1,4 @@
-var selectors = [{"selector":"body > div.header.header-logged-in.true > div > div > form > label > input", "action":"setParam", "param":"proclicker the best"},
+var selectors = [{"selector":"body > div.position-relative.js-header-wrapper > header > div > div > div > div > form > label > input.form-control.header-search-input.js-site-search-focus.js-site-search-field.is-clearable", "action":"setParam", "param":"proclicker the best"},
     {"selector":"#js-repo-pjax-container > div.pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav > div:nth-child(2) > nav > span:nth-child(1) > a > span", "action":"click"},
     {"selector":"#js-repo-pjax-container > div.pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav > div:nth-child(2) > nav > span:nth-child(3) > a > span", "action":"click"},
     {"selector":"#js-repo-pjax-container > div.pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav > div:nth-child(2) > nav > a:nth-child(4)", "action":"click"},
